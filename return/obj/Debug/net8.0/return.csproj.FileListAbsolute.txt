@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\functions\return\bin\Debug\net8.0\return.exe
+C:\Users\Taavet\source\repos\functions\return\bin\Debug\net8.0\return.deps.json
+C:\Users\Taavet\source\repos\functions\return\bin\Debug\net8.0\return.runtimeconfig.json
+C:\Users\Taavet\source\repos\functions\return\bin\Debug\net8.0\return.dll
+C:\Users\Taavet\source\repos\functions\return\bin\Debug\net8.0\return.pdb
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\return.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\return.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\return.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\return.dll
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\refint\return.dll
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\return.pdb
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\return.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\functions\return\obj\Debug\net8.0\ref\return.dll

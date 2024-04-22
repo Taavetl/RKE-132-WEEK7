@@ -1,0 +1,14 @@
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\bin\Debug\net8.0\argumentsandparameters.exe
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\bin\Debug\net8.0\argumentsandparameters.deps.json
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\bin\Debug\net8.0\argumentsandparameters.runtimeconfig.json
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\bin\Debug\net8.0\argumentsandparameters.dll
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\bin\Debug\net8.0\argumentsandparameters.pdb
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\argumentsandparameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\argumentsandparameters.AssemblyInfoInputs.cache
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\argumentsandparameters.AssemblyInfo.cs
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\argumentsandparameters.csproj.CoreCompileInputs.cache
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\argumentsandparameters.dll
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\refint\argumentsandparameters.dll
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\argumentsandparameters.pdb
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\argumentsandparameters.genruntimeconfig.cache
+C:\Users\Taavet\source\repos\functions\argumentsandparameters\obj\Debug\net8.0\ref\argumentsandparameters.dll
